@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    gap: 6px;
+}
+
+.button {
+    cursor: pointer;
+    padding: 4px 6px;
+}
+
+.link {
+    font-size: 12px;
+    text-decoration: none;
+}

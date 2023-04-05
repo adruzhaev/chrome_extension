@@ -1,0 +1,12 @@
+.input {
+    padding: 4px 8px;
+}
+
+.login-container {
+    display: flex;
+    gap: 8px;
+}
+
+.button {
+    cursor: pointer;
+}
